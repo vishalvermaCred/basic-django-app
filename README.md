@@ -1,1 +1,1 @@
-# Baisc Todo Crud Ops using Django
+# Basic Todo Crud Ops using Django
